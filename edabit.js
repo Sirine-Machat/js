@@ -130,3 +130,7 @@ Number of Stickers
 function howManyStickers(n) {
 	return n*6*n;
 }
+Sum of Polygon Angles
+function sumPolygon(n) {
+	return n*180-2*180;
+}
